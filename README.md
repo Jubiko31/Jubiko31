@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-- 🎓 I’m a Python Developer, Software Developer and Cybersecurity specialist.
+- 🎓 I’m a Python Developer, Software Engineer and Cybersecurity specialist.
 - Currently working as a Backend Engineer.
 - Looking forward to collaborate on some new ideas and projects
 - 📫 How to reach me: View my portfolio website for all of my contact information
