@@ -2,8 +2,8 @@
 
 ## 🚀 About Me
 
-- 🎓 I’m a Python Developer, Software Engineer and Cybersecurity specialist.
-- Currently working as a Backend Engineer.
+- 🎓 I’m a Software Engineer, Junior DevOps Engineer and Cybersecurity Specialist (Ethical Hacker).
+- Currently working as a Backend Engineer, Solution Architect, DevOps Engineer, Penetration Tester
 - Looking forward to collaborate on some new ideas and projects
 - 📫 How to reach me: View my portfolio website for all of my contact information
 
