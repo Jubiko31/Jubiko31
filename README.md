@@ -4,8 +4,8 @@
 
 
 
-- 🎓 I’m a Middle Software Engineer and System Architect, Junior DevOps Engineer and Cybersecurity Specialist (Ethical Hacker).
-- Currently working as a Backend Engineer, System Architect, DevOps Engineer, Penetration Tester
+- 🎓 I’m a Software Engineer, System Architect, Junior DevOps Engineer and Cybersecurity Specialist (Ethical Hacker).
+- Currently working as a Middle Backend Engineer, Lead System Architect, DevOps Engineer, Penetration Tester
 - Looking forward to collaborate on some new ideas and projects
 - 📫 How to reach me: View my portfolio website for all of my contact information
 
