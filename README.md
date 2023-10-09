@@ -1,6 +1,8 @@
 # Juba Matsaberidze
 
-## 🚀 About Me
+## About Me    ![image](https://github.com/Jubiko31/Jubiko31/assets/53910160/21b14dc6-7dd4-433d-9bf2-df6566c91161)
+
+
 
 - 🎓 I’m a Software Engineer, Junior DevOps Engineer and Cybersecurity Specialist (Ethical Hacker).
 - Currently working as a Backend Engineer, Solution Architect, DevOps Engineer, Penetration Tester
