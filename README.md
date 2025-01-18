@@ -2,11 +2,9 @@
 
 ## About Me    ![image](https://github.com/Jubiko31/Jubiko31/assets/53910160/21b14dc6-7dd4-433d-9bf2-df6566c91161)
 
-
-
-- 🎓 I’m a Software Engineer, System Architect, Junior DevOps Engineer and Cybersecurity Specialist (Ethical Hacker).
-- Currently working as a Middle Backend Engineer, Lead System Architect, DevOps Engineer, Penetration Tester
-- Looking forward to collaborate on some new ideas and projects
+- Software Engineer, Solutions Architect, DevOps Engineer.
+- AWS Certified (DVA, SAA). Cloud Engineer
+- Feel free to reach out to me, we can discuss business ideas, future contributations, or Warhammer lore. 👾
 - 📫 How to reach me: View my portfolio website for all of my contact information
 
 [![portfolio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://juba-portfolio.netlify.app)
@@ -87,6 +85,3 @@
 
 <br />
 
-## 🔗 Social Links
-
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juba-matsaberidze-7b66a7204/)
